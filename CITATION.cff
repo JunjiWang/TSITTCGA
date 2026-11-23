@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "TTCGPM: Two-Step Inertial Three-Term CG Projection Method for Constrained Equations with Application to PMU State Estimation"
+authors:
+  - family-names: "Wang"
+    given-names: "Junji"
+  - family-names: "Jian"
+    given-names: "Jinbao"
+  - family-names: "Li"
+    given-names: "Jueyou"
+  - family-names: "Chen"
+    given-names: "Jiayang"
+  - family-names: "Ma"
+    given-names: "Guodong"
+version: "1.0"
+date-released: "2026-11-23"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A Two-Step Inertial Three-Term CG Projection Method for Constrained Equations with Application to PMU State Estimation"
+  authors:
+    - family-names: "Wang"
+      given-names: "Junji"
+    - family-names: "Jian"
+      given-names: "Jinbao"
+    - family-names: "Li"
+      given-names: "Jueyou"
+    - family-names: "Chen"
+      given-names: "Jiayang"
+    - family-names: "Ma"
+      given-names: "Guodong"
